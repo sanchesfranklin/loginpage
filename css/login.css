@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #CACBCD;
+}
+
+.form-login {
+    margin-top: 200px;
+}
+
+.info-empresa {
+    margin-top: 200px;
+}
+
+.form-inputs input {
+    width: 350px;
+    margin: 0 auto;
+}
